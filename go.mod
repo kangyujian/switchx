@@ -1,3 +1,3 @@
-module github.com/switchx
+module github.com/kangyujian/switchx
 
 go 1.16
